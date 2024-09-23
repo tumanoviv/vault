@@ -1,3 +1,5 @@
+// src/index.ts
+import './index.css';
 import { greetUser } from '$utils/greet';
 
 window.Webflow ||= [];
